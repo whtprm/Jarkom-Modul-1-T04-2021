@@ -75,6 +75,11 @@ test
 **6.** Cari username dan password ketika melakukan login ke FTP Server!
 
 **Solusi**\
+```
+ftp countains "user" dan ftp countains "pw"
+```
+
+Maka akan di dapatkan User
 
 \
 \
