@@ -1,9 +1,9 @@
 # lapres Jarkom-Modul-1-T04-2021
 
 **Oleh:**
-  * Muhammad Nur Fauzan     (05311940000035)
+  * Muhammad Nur Fauzan (NRP)
   * Ghimnastiar Al Abiyyuna (05311940000042)
-  * Christopher Bennedict   (NRP)
+  * Christopher Bennedict (NRP)
 
 ---
 
@@ -76,7 +76,7 @@ filter e tarok sini
 \
 **6.** Cari username dan password ketika melakukan login ke FTP Server!
 
-**Solusi**\
+**Solusi**
 ```
 ftp countains "user" dan ftp countains "pw"
 ```
@@ -84,15 +84,33 @@ ftp countains "user" dan ftp countains "pw"
 Maka akan di dapatkan User
 \
 ![Soal 6-1](https://cdn.discordapp.com/attachments/830775203868573756/891297362713141279/unknown.png)
+\
 Dan akan di dapatkan Password
-
+\
+![Soal 6-2](https://cdn.discordapp.com/attachments/830775203868573756/891297447857496074/unknown.png)
 \
 \
 \
 **7.** Ada 500 file zip yang disimpan ke FTP Server dengan nama 0.zip, 1.zip, 2.zip, ..., 499.zip. Simpan dan Buka file pdf tersebut. (Hint = nama pdf-nya "Real.pdf")
 
 
-**Solusi**\
+**Solusi**
+
+```
+ftp-data contains "Real.pdf"
+```
+
+Maka didapatkan
+\
+![Soal 7-1](https://cdn.discordapp.com/attachments/830775203868573756/891298448836542484/unknown.png)
+\
+Follow TCP stream
+\
+![Soal 7-2](https://cdn.discordapp.com/attachments/830775203868573756/891298918510510090/unknown.png)
+\
+Dan Download sebagai .zip file
+\
+![Soal 7-3](https://cdn.discordapp.com/attachments/830775203868573756/891298874285785119/unknown.png)
 
 \
 \
@@ -100,12 +118,12 @@ Dan akan di dapatkan Password
 **8.** Cari paket yang menunjukan pengambilan file dari FTP tersebut!
 
 
-**Solusi**\
+**Solusi**
 
 ```
-filter tarok sini
+ftp-data.command contains "RETR"
 ```
-
+![Soal 8-1](https://cdn.discordapp.com/attachments/830775203868573756/891299038081712148/unknown.png)
 
 \
 \
@@ -116,18 +134,31 @@ filter tarok sini
 Gunakan filter:
 
 ```
-dfgdfgfdgdf
+ftp-data.command contains "STOR secret.zip"
 ```
-
+Kemudian follow TCP Stream
+![Soal 9-1](https://cdn.discordapp.com/attachments/830775203868573756/891299558322216960/unknown.png)
+\
+lalu didapatkan
+\
+![Soal 9-2](https://cdn.discordapp.com/attachments/830775203868573756/891299262430847006/unknown.png)
 
 \
 \
 \
 **10.** Selain itu terdapat "history.txt" yang kemungkinan berisi history bash server tersebut! Gunakan isi dari "history.txt" untuk menemukan password untuk membuka file rahasia yang ada di "secret.zip"!
 
-**Solusi**\
+**Solusi**
+```
+ftp-data.command contains "STOR history.txt"
+```
 
-
+Follow TCP stream
+![Soal 10-1](https://cdn.discordapp.com/attachments/830775203868573756/891299611485020190/unknown.png)
+\
+Kemudian download hystory sebagai file .txt
+\
+![Soal 10-2](https://cdn.discordapp.com/attachments/830775203868573756/891299642170540032/unknown.png)
 ---
 
 ## Capture Filter
