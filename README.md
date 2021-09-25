@@ -77,11 +77,11 @@ Maka didaptkan
 
 **Solusi**
 ```
-mysql.query contains "username"
+mysql.query contains "users"
 ```
 Pertama kita gunakan filter untuk mendapatkan username dan password
 \
-![Soal 5-1](https://user-images.githubusercontent.com/73151866/134773036-145eecce-3edb-4112-9d53-5061176e22ee.png)
+![Soal 5-1](https://user-images.githubusercontent.com/73151866/134773691-fac5ed47-5361-4077-a8cf-3bc91d9f9ddb.png)
 \
 Kemudian Menjawab soal sesuai perintah yang ada
 \
