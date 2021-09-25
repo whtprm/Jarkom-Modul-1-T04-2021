@@ -19,7 +19,7 @@ http.host contains "ichimarumaru.tech"
 ```
 Maka didapat diketahui ichimarumaru.tech menggunakan ngingx/1.18.0
 \
-![Soal 1-1](link gambar)
+![Soal 1-1](https://user-images.githubusercontent.com/73151866/134772737-fef26aee-eb4e-4d44-b805-979191c98b51.png)
 
 \
 \
@@ -32,7 +32,7 @@ http.authbasic
 ```
 Maka dapat terlihat paket yang menggunakan Basic Authentication
 \
-![Soal 2-1](Link nknknk)
+![Soal 2-1](https://user-images.githubusercontent.com/73151866/134772799-37694739-a1f2-4700-8ee8-cae2db319811.png)
 
 
 
@@ -48,11 +48,11 @@ http.authbasic
 
 Maka didapat dicari pada Auhtorization>Credential username dan password basic.ichimarumaru.tech
 \
-![Soal 3-1](link dfd asfdsfsd)
+![Soal 3-1](https://user-images.githubusercontent.com/73151866/134772819-e6b13adc-8ec1-4bbc-92b1-4ba9afaccfee.png)
 \
 Kemudian Menjawab soal sesuai perintah yang ada
 \
-![Soal 3-2](Linke stato)
+![Soal 3-2](https://user-images.githubusercontent.com/73151866/134772917-b46dc9d5-f718-4ea6-be1a-d192309d3cf5.png)
 
 
 \
@@ -67,7 +67,7 @@ mysql.query contains "select"
 
 Maka didaptkan
 \
-![Soal 4-1](Linke stato)
+![Soal 4-1](https://user-images.githubusercontent.com/73151866/134772998-7714d612-0f1c-44fd-9cab-8debc56e5d0e.png)
 
 
 \
@@ -77,15 +77,15 @@ Maka didaptkan
 
 **Solusi**
 ```
-mysql.query contains "insert"
+mysql.query contains "username"
 ```
 Pertama kita gunakan filter untuk mendapatkan username dan password
 \
-![Soal 5-1](Linke stato)
+![Soal 5-1](https://user-images.githubusercontent.com/73151866/134773036-145eecce-3edb-4112-9d53-5061176e22ee.png)
 \
 Kemudian Menjawab soal sesuai perintah yang ada
 \
-![Soal 5-2](Linke stato)
+![Soal 5-2](https://user-images.githubusercontent.com/73151866/134773363-f6fff2bc-3e8e-4ea4-b0e5-0cdcb738363e.png)
 
 \
 \
