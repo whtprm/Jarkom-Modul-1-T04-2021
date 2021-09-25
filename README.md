@@ -49,6 +49,10 @@ http.authbasic
 Maka didapat dicari pada Auhtorization>Credential username dan password basic.ichimarumaru.tech
 \
 ![Soal 3-1](link dfd asfdsfsd)
+\
+Kemudian Menjawab soal sesuai perintah yang ada
+\
+![Soal 3-2](Linke stato)
 
 
 \
@@ -64,10 +68,7 @@ mysql.query contains "select"
 Maka didaptkan
 \
 ![Soal 4-1](Linke stato)
-\
-Kemudian Menjawab soal sesuai perintah yang ada
-\
-![Soal 4-2](Linke stato)
+
 
 \
 \
