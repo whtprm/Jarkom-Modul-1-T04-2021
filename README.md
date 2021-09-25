@@ -15,15 +15,11 @@
 Gunakan filter :
 
 ```
-test
+http.host contains "ichimarumaru.tech"
 ```
-
-
-
-![Soal 1-1]
-
-![Soal 1-2]
-
+Maka didapat diketahui ichimarumaru.tech menggunakan ngingx/1.18.0
+\
+![Soal 1-1](link gambar)
 
 \
 \
@@ -32,10 +28,12 @@ test
 
 **Solusi**
 ```
-filter e tarok sini
+http.authbasic
 ```
+Maka dapat terlihat paket yang menggunakan Basic Authentication
+\
+![Soal 2-1](Link nknknk)
 
-![Soal 2-1]
 
 
 \
@@ -45,11 +43,12 @@ filter e tarok sini
 
 
 ```
-test
+http.authbasic
 ```
 
-
-![Soal 3-1]
+Maka didapat dicari pada Auhtorization>Credential username dan password basic.ichimarumaru.tech
+\
+![Soal 3-1](link dfd asfdsfsd)
 
 
 \
@@ -59,18 +58,34 @@ test
 
 **Solusi**
 ```
-filter e tarok sini
+mysql.query contains "select"
 ```
+
+Maka didaptkan
+\
+![Soal 4-1](Linke stato)
+\
+Kemudian Menjawab soal sesuai perintah yang ada
+\
+![Soal 4-2](Linke stato)
+
 \
 \
 \
 **5.** Login ke portal.ichimarumaru.tech kemudian ikuti perintahnya! Username dan password bisa didapat dari query insert pada table users dari file .pcap!
 
 **Solusi**
+```
+mysql.query contains "insert"
+```
+Pertama kita gunakan filter untuk mendapatkan username dan password
 \
-```
-filter e tarok sini
-```
+![Soal 5-1](Linke stato)
+\
+Kemudian Menjawab soal sesuai perintah yang ada
+\
+![Soal 5-2](Linke stato)
+
 \
 \
 \
