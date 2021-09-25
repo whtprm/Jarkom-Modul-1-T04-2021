@@ -184,7 +184,7 @@ Kemudian download hystory sebagai file .txt
 Gunakan filter:
 
 ```
-tarok filter disini
+src port 80
 ```
 ![Soal 11-1](foto jawaban)
 \
@@ -196,7 +196,7 @@ tarok filter disini
 Gunakan filter:
 
 ```
-jghjghjgh
+port 21
 ```
 
 ![Soal 12-1](foto jawaban)
@@ -209,7 +209,7 @@ jghjghjgh
 Gunakan filter:
 
 ```
-sfsdfsd
+dst port 443
 ```
 
 ![Soal 13-1](foto jawaban)
@@ -223,7 +223,7 @@ sfsdfsd
 Gunakan filter:
 
 ```
-dsfsdfsdfsd
+dst host kemenag.go.id
 ```
 
 
@@ -233,14 +233,14 @@ dsfsdfsdfsd
 \
 **15.** Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 
-Untuk `[ip_sendiri]` dapat dilihat menggunakan command `ipconfig` pada terminal
+Untuk `[private_ip]` dapat dilihat menggunakan command `ipconfig` pada terminal
 
 **Solusi**\
 Gunakan filter:
 
 
 ```
-sdasdsada
+src host [private_ip]
 ```
 
 ![Soal 15-1](foto jawaban)
