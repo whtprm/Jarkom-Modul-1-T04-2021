@@ -133,9 +133,9 @@ dfgdfgfdgdf
 Gunakan filter:
 
 ```
-asdadasd
+tarok filter disini
 ```
-
+![Soal 11-1] (foto jawaban)
 \
 \
 \
@@ -148,7 +148,7 @@ Gunakan filter:
 jghjghjgh
 ```
 
-![Soal 12-1]
+![Soal 12-1] (foto jawaban)
 \
 \
 \
@@ -161,7 +161,7 @@ Gunakan filter:
 sfsdfsd
 ```
 
-![Soal 13-1] 
+![Soal 13-1]  (foto jawaban)
 \
 \
 \
@@ -176,7 +176,7 @@ dsfsdfsdfsd
 ```
 
 
-![Soal 14-1]
+![Soal 14-1] (foto jawaban)
 \
 \
 \
@@ -192,4 +192,4 @@ Gunakan filter:
 sdasdsada
 ```
 
-![Soal 15-1]
+![Soal 15-1] (foto jawaban)
