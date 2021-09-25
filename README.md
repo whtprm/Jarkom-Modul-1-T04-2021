@@ -83,7 +83,7 @@ ftp countains "user" dan ftp countains "pw"
 
 Maka akan di dapatkan User
 \
-
+![Soal 6-1](https://cdn.discordapp.com/attachments/830775203868573756/891297362713141279/unknown.png)
 Dan akan di dapatkan Password
 
 \
@@ -140,7 +140,7 @@ Gunakan filter:
 ```
 tarok filter disini
 ```
-![Soal 11-1] (foto jawaban)
+![Soal 11-1](foto jawaban)
 \
 \
 \
@@ -153,7 +153,7 @@ Gunakan filter:
 jghjghjgh
 ```
 
-![Soal 12-1] (foto jawaban)
+![Soal 12-1](foto jawaban)
 \
 \
 \
@@ -166,7 +166,7 @@ Gunakan filter:
 sfsdfsd
 ```
 
-![Soal 13-1]  (foto jawaban)
+![Soal 13-1](foto jawaban)
 \
 \
 \
@@ -181,7 +181,7 @@ dsfsdfsdfsd
 ```
 
 
-![Soal 14-1] (foto jawaban)
+![Soal 14-1](foto jawaban)
 \
 \
 \
@@ -197,4 +197,4 @@ Gunakan filter:
 sdasdsada
 ```
 
-![Soal 15-1] (foto jawaban)
+![Soal 15-1](foto jawaban)
