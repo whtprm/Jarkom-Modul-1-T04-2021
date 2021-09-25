@@ -187,7 +187,7 @@ Gunakan filter:
 ```
 src port 80
 ```
-![Soal 11-1](foto jawaban)
+![Soal 11-1](https://cdn.discordapp.com/attachments/811534608800677891/891310664734343288/11.png)
 \
 \
 \
@@ -200,7 +200,7 @@ Gunakan filter:
 port 21
 ```
 
-![Soal 12-1](foto jawaban)
+![Soal 12-1](https://cdn.discordapp.com/attachments/811534608800677891/891310663136329818/12.png)
 \
 \
 \
@@ -213,7 +213,7 @@ Gunakan filter:
 dst port 443
 ```
 
-![Soal 13-1](foto jawaban)
+![Soal 13-1](https://cdn.discordapp.com/attachments/811534608800677891/891310667506810960/13.png)
 \
 \
 \
@@ -228,7 +228,7 @@ dst host kemenag.go.id
 ```
 
 
-![Soal 14-1](foto jawaban)
+![Soal 14-1](https://cdn.discordapp.com/attachments/811534608800677891/891310660401635378/14.png)
 \
 \
 \
@@ -244,4 +244,4 @@ Gunakan filter:
 src host [private_ip]
 ```
 
-![Soal 15-1](foto jawaban)
+![Soal 15-1](https://cdn.discordapp.com/attachments/811534608800677891/891310631033135124/15.png)
