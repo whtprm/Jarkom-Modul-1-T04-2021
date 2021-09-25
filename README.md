@@ -30,17 +30,14 @@ test
 \
 **2.** Temukan paket dari web-web yang menggunakan basic authentication method!
 
-**Solusi**\
-
+**Solusi**
+```
+filter e tarok sini
+```
 
 ![Soal 2-1]
 
-![Soal 2-2
-![Soal 2-3]
 
-![Soal 2-4]
-
-![Soal 2-5]
 \
 \
 \
@@ -60,15 +57,20 @@ test
 \
 **4.** Temukan paket mysql yang mengandung perintah query select!
 
-**Solusi**\
-
+**Solusi**
+```
+filter e tarok sini
+```
 \
 \
 \
 **5.** Login ke portal.ichimarumaru.tech kemudian ikuti perintahnya! Username dan password bisa didapat dari query insert pada table users dari file .pcap!
 
-**Solusi**\
-
+**Solusi**
+\
+```
+filter e tarok sini
+```
 \
 \
 \
@@ -80,6 +82,9 @@ ftp countains "user" dan ftp countains "pw"
 ```
 
 Maka akan di dapatkan User
+\
+
+Dan akan di dapatkan Password
 
 \
 \
